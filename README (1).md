@@ -1,9 +1,5 @@
 # Challenge ONE - Back End Java + Spring - API Rest Foro Alura.
 
-![Badge Release](https://img.shields.io/badge/Release%20Date:-Mayo-blue)``
-![Badge Java](https://img.shields.io/badge/Java:-17-blue)
-![Badge Java](https://img.shields.io/badge/Spring%20Boot:-3.1.0-blue)
-![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
 
 ## Descrpción del Proyecto
 
@@ -75,8 +71,4 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Entorno de desarrollo integrado para el desarrollo de programas informáticos.
 * [Spring Boot](https://start.spring.io/) - Herramienta que hace que el desarrollo de aplicaciones web y microservicios con Spring Framework sea más rápido y fácil.
 
-## Autores ✒️
 
-* **Génesys Rondón** - *Instructora en Alura LATAM* - [Génesys](https://www.linkedin.com/in/genesysrondon914762182/)
-* **Eric Monné** - *Instructor en Alura LATAM* - [Eric](https://www.linkedin.com/in/ericmonnefo/)
-* **Victor Rodríguez** - *Desarrollador* - [Victor](https://www.linkedin.com/in/victor-manuel-rdz-l/)
